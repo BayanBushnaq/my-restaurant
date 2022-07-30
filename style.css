@@ -14,11 +14,12 @@ body {
  }
 
  #pic2{
-      ali
+      margin-left:270px;
  }
 
  #welcome{
-    text-align:center;
+ text-align: center;
+ text-size-adjust:100px;
 
  }
  #words{
@@ -33,5 +34,13 @@ margin-left:500px;
  }
 
  #nav{
-    border:10px;
+    margin: 0 ;
+    padding: 0;
+    background-color: rgb(169, 169, 169);
+    color: blue;
+    text-align: center;
+    padding:5px;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    
+    
  }
