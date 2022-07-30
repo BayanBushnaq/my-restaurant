@@ -36,11 +36,16 @@ margin-left:500px;
  #nav{
     margin: 0 ;
     padding: 0;
-    background-color: rgb(169, 169, 169);
     color: blue;
     text-align: center;
     padding:5px;
     font-family: 'Edu VIC WA NT Beginner', cursive;
+    background-color: darkcyan;
     
-    
+ }
+ #Menustyle{
+    margin:300px;
+    padding:400px;
+    font-size: medium;
+    border: black;
  }
